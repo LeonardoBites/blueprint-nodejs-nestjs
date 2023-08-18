@@ -42,4 +42,4 @@ Blueprint of a NestJS Service with enterprise features like JSON logging, Swagge
   ```console
   $ npm outdated
   ```
-# blueprint-nodejs-nestjs
+
